@@ -1,0 +1,25 @@
+# Copyrighted source PDFs — never publish
+pdf_cache/
+
+# Derived full-text index (contains complete paper text) — never publish
+index/
+
+# Author-only methods draft — not for publication
+METHODOLOGY.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Secrets / credentials
+*.toml
+.env
+*.key
+*credentials*
+*secret*
+
+# Full Scopus exports with abstracts (local only)
+data_full/
