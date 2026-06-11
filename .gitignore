@@ -5,8 +5,7 @@ pdf_cache/
 index/
 
 # Author-only methods draft — not for publication
-METHODOLOGY.md
-METHODOLOGY.docx
+METHODOLOGY*
 
 # Python
 __pycache__/
