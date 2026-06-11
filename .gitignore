@@ -23,3 +23,9 @@ __pycache__/
 
 # Full Scopus exports with abstracts (local only)
 data_full/
+
+# Word copies of validation forms (shared by email, not tracked)
+rag_results/validation/*.docx
+
+# Office lock files
+~$*
